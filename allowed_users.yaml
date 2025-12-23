@@ -95,9 +95,9 @@ credentials:
       password: "$2b$12$fa7o7dyQCg560iXv1BLUsuFsin5TR16aXt3txuWxXMJwLME6i3b9K"
       role: "user"
       email: "madhav@gmail.com"  # Add email field
-    ashish@gmail.com:
+    ashish.j@gmail.com:
       name: "Ashish Jain"
-      password: "$2b$12$Di.ZWKHq9Mhadfni3oMoqe.UAYeSw8IaatL7d3teTLjT6O2iu8rvW"
+      password: "$2b$12$UpyYSq9yggDNUrxkbpMdcuwudZ1xyT/Hj3/JspEwbtYNNhIk5Bpoa"
       role: "user"
       email: "ashish@gmail.com"  # Add email field
     gaurav@gmail.com:
@@ -170,6 +170,16 @@ credentials:
       password: "$2b$12$l4JWOJ37YFlBb6f8flq/pONWbN4JaBjlrB34hWv9xM.ia9OjhbqKm"
       role: "user"
       email: "nakul@gmail.com"  # Add email field
+    sandipta@gmail.com:
+      name: "Sandipta Banerjee"
+      password: "$2b$12$jH09Oj4Jh0I3jlgjzlL.ou/fGwFKoTD7BrEj88gckYCq9n59yb6Im"
+      role: "user"
+      email: "nakul@gmail.com"  # Add email field
+    ashish@gmail.com:
+      name: "Ashish Sehgal"
+      password: "$2b$12$Di.ZWKHq9Mhadfni3oMoqe.UAYeSw8IaatL7d3teTLjT6O2iu8rvW"
+      role: "user"
+      email: "ashish@gmail.com"  # Add email field
 
 blocked_users:
   - xyz7@gmail.com
