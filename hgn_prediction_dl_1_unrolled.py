@@ -69,7 +69,7 @@ if st.session_state['authentication_status']:
 
     geography_options = ["INDIAN", "INTERNATIONAL", "ASSAM", "BIHAR", "CHHATTISGARH", "DELHI", "GUJARAT", "HARYANA", "HIMACHAL PRADESH",
                         "JAMMU AND KASHMIR", "JHARKHAND", "KARNATAKA", "KERALA", "LADAKH", "MADHYA PRADESH", "MAHARASHTRA", "MEGHALAYA", "ODISHA", 
-                         "PUNJAB", "RAJASTHAN", "TAMIL NADU", "TELANGANA", "UTTAR PRADESH", "UTTARAKHAND", "WEST BENGAL", "OTHER"]
+                         "PUNJAB", "RAJASTHAN", "TAMIL NADU", "TELANGANA", "UTTAR PRADESH", "UTTARAKHAND", "WEST BENGAL"]
 
     popularity_options = ["H", "M", "L"]
 
@@ -78,7 +78,7 @@ if st.session_state['authentication_status']:
                                    "Sports", "SS", "TDP", "TMC", "OTHERS"]
 
     logistics_options = ["ON LOCATION", "IN STUDIO", "BOTH"]
-    story_format_options = ["DEBATE OR DISCUSSION", "INTERVIEW", "NEWS REPORT"]
+    story_format_options = ["DEBATE OR DISCUSSION", "INTERVIEW", "REPORT"]
 
     # ----------------------------------------
     # 6. Input Fields
